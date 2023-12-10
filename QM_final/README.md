@@ -1,3 +1,6 @@
 # Tracking service quality improvement through the online review using SPC & ABSA
 
 This research applies Statistical Process Control (SPC) and Aspect-Based Sentiment Analysis (ABSA) to track improvements in restaurant service quality through online reviews. By utilizing advanced techniques such as Latent Dirichlet Allocation (LDA) and the pre-trained BERT model, the study aims to extract latent topics and sentiments related to specific aspects from a vast corpus of online reviews. This methodology uniquely combines sentiment analysis results with customer satisfaction scores to provide a comprehensive overview of customer experiences in the restaurant industry. The findings are visualized using SPC charts for effective trend analysis and anomaly detection. This approach not only overcomes the limitations of traditional sentiment analysis methods but also provides new insights into customer satisfaction and service quality improvement in the restaurant sector. The innovative methods presented in this paper offer significant contributions to both academic research and practical applications in the field of sentiment analysis and customer experience management.
+
+Special Thanks to https://huggingface.co/yangheng/deberta-v3-base-absa-v1.1 for providing code for Aspect-based Sentiment Analysis
+
